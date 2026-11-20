@@ -107,6 +107,6 @@ npm test
 
 ## 5. Colaborador
 
-**Desenvolvedor:** Guilherme Luvizutto
+**Desenvolvedor:** Guilherme Paschoal Luvizutto - RA 24244079-2
 
 Projeto desenvolvido individualmente como atividade acadêmica da disciplina de Testes de Software.
